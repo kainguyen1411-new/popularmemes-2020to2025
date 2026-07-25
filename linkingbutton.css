@@ -1,0 +1,36 @@
+a:link {
+    display:block;
+    color:chocolate;
+    background-color:white;
+    text-decoration:none;
+    padding: 21px 25px;
+    margin: 0 auto;
+    width: fit-content;
+}
+
+a:visited
+{
+    display:block;
+    color:chocolate;
+    background-color:white;
+    text-decoration:none;
+    padding: 21px 25px;
+}
+
+a:hover{
+    display:block;
+    color:crimson;
+    background-color:darkcyan;
+    text-decoration:underline;
+    padding: 21px 25px;
+}
+
+a:active
+{
+    display:block;
+    color:darksalmon;
+    background-color:peachpuff;
+    text-decoration:underline;
+    border: 2px solid beige;
+    padding: 21px 25px;
+}
